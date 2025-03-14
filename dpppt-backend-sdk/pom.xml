@@ -29,7 +29,7 @@
 		<testcontainers-version>1.16.0</testcontainers-version>
 		<spring-cloud-connectors-version>2.0.7.RELEASE</spring-cloud-connectors-version>
 
-		<itCoverageAgent></itCoverageAgent>
+		<itCoverageAgent/>
 
 		<build-helper-maven-plugin.version>3.2.0</build-helper-maven-plugin.version>
 
@@ -139,7 +139,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>30.1-jre</version>
+			<version>30.1.1-jre</version>
 		</dependency>
 
 	</dependencies>
